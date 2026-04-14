@@ -1,0 +1,15 @@
+# ── Core ──
+streamlit>=1.32.0
+deepface>=0.0.93
+opencv-python-headless>=4.9.0.80
+Pillow>=10.2.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# ── Charts ──
+plotly>=5.18.0
+
+# ── DeepFace dependencies (usually auto-installed, listed for clarity) ──
+tensorflow>=2.13.0
+tf-keras>=2.16.0
+retina-face>=0.0.17
